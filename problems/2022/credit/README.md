@@ -59,6 +59,4 @@ Number: 6176292929
 INVALID
 ```
 
-Test out your program with a whole bunch of inputs, both valid and invalid. (We certainly will!) Here are a few card numbers that PayPal recommends for testing.
-
-If your program behaves incorrectly on some inputs (or doesn’t compile at all), time to debug!
+Test out your program with a whole bunch of inputs, both valid and invalid. (We certainly will!) Here are a [few card numbers](https://developer.paypal.com/api/nvp-soap/payflow/integration-guide/test-transactions/#standard-test-cards) that PayPal recommends for testing.
